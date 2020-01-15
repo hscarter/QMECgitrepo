@@ -65,6 +65,8 @@ results <- c(
 #add results to the dataframe
 df$results <- results
 #save the data
-write.csv(df, "hw1_data.csv")
+write.csv(df, "hw1_data.csv") #I'm working from a git repo, so this also saves online
 
-#read this data in remotely
+#read this data in remotely from github
+hw1_data <- read.csv("https://raw.githubusercontent.com/hscarter/QMECgitrepo/master/hw1_data.csv")
+
