@@ -1,0 +1,23 @@
+Indepedent Project for Quantitative Methods in Ecology and Conservation
+by Haley Carter
+
+Data:
+The dataset I will use for this project contains observations about the offspring of 
+Oenothera harringtonii plants from one population in Southeastern Colorado (Rouse). 
+Columns include the maternal plant of each offspring, the most likely paternal plant 
+for each offspring (assigned by Cervus), the GPS coordinates of each parental plant, 
+and the chemotype of each parental plant (linalool +/- and emission rate). 
+This dataset can also be transformed to be observations about each maternal or paternal line.
+Observations of interest about each maternal or paternal line are: number of mates, 
+chemotype of the parental plant, proportion chemotype match of mates, 
+average distance to mates, and number of offspring produced. 
+
+I am currently transforming and cleaning this dataset as an assignment for another class.
+The link will be available by next week's class. 
+
+Hypotheses:
+Linalool producing plants receive pollen from other linalool-producing plants more 
+frequently than expected by their ratio in the population.
+NULL: All plants receive pollen from the different chemotypes at a rate proportional 
+to their occurance in the population.
+

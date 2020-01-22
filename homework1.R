@@ -75,4 +75,5 @@ write.csv(df, "hw1_data.csv") #I'm working from a git repo so also saves online
 
 #read this data in remotely from github
 hw1_data <- read.csv("https://raw.githubusercontent.com/hscarter/QMECgitrepo/master/hw1_data.csv")
-
+#how did I do?
+table(df$assignment, df$results)
